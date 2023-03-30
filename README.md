@@ -1,2 +1,5 @@
 # TrabalhoEstruturaDados
-Trabalho Estrutura de Dados - Iuri Mikaell
+Trabalho Estrutura de Dados
+
+Aluno: Iuri Mikaell
+3º Periodo SI
